@@ -12,4 +12,3 @@ Basics of Array
 | Find minimum and maximum element in an array | <a href="https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1"> Link |  |
 | Game with nos | <a href="https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1"> Link |  |
 | Largest Element in Array | <a href="https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1"> Link |  |
-| C++ Arrays (Sum of array) | Set 1 | <a href="https://practice.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1"> Link |  |
