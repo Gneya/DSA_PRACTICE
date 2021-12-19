@@ -17,17 +17,17 @@
   Continued with Array and took part in codechef December cookoff-2021</B>
   | Problem Statement | Question  | Solution  |
 | :---:   | :-: | :-: |
-| Display Longest Name | <a href="https://practice.geeksforgeeks.org/problems/display-longest-name0853/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_array.java"> Link  |
- | Product-of-maximum-in-first-array-and-minimum-in-second | <a href="https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_array.java"> Link  |
-  | Ishaan Loves chocolate | <a href="https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_array.java"> Link  |
-  | Minimum Number to form sum even | <a href="https://practice.geeksforgeeks.org/problems/minimum-number-to-form-the-sum-even0326/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_array.java"> Link  |
- | Wave Array | <a href="https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_array.java"> Link  |
-   | Rotate Array | <a href="https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_array.java"> Link  |
+| Display Longest Name | <a href="https://practice.geeksforgeeks.org/problems/display-longest-name0853/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/display_longest_name.java"> Link  |
+ | Product-of-maximum-in-first-array-and-minimum-in-second | <a href="https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/product_of_maxmin.java"> Link  |
+  | Ishaan Loves chocolate | <a href="https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/ishan_loves_chocolate.java"> Link  |
+  | Minimum Number to form sum even | <a href="https://practice.geeksforgeeks.org/problems/minimum-number-to-form-the-sum-even0326/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/form_sum.java"> Link  |
+ | Wave Array | <a href="https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/wave_array.java"> Link  |
+   | Rotate Array | <a href="https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/rotate.java"> Link  |
   
   <B>Codechef Problems</B>
   <ol>
-    <li><a href="https://www.codechef.com/COOK136C/problems/TWOROOKS">Two Rooks --> <a href="">Solution</li>
-    <li><a href="https://www.codechef.com/COOK136C/problems/FRIMEET">Friends Meetup --> <a href="">Solution</li>
-    <li><a href="https://www.codechef.com/COOK136C/problems/MEDMIN">Median Minimization --> <a href="">Solution</li>
+    <li><a href="https://www.codechef.com/COOK136C/problems/TWOROOKS">Two Rooks --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/two_rooks.java">Solution</li>
+    <li><a href="https://www.codechef.com/COOK136C/problems/FRIMEET">Friends Meetup --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/friends_meetup.java">Solution</li>
+    <li><a href="https://www.codechef.com/COOK136C/problems/MEDMIN">Median Minimization --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/median_minimization.java">Solution</li>
   </ol>
   
