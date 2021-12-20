@@ -28,6 +28,18 @@
   <ol>
     <li><a href="https://www.codechef.com/COOK136C/problems/TWOROOKS">Two Rooks --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/two_rooks.java">Solution</li>
     <li><a href="https://www.codechef.com/COOK136C/problems/FRIMEET">Friends Meetup --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/friends_meetup.java">Solution</li>
-    <li><a href="https://www.codechef.com/COOK136C/problems/MEDMIN">Median Minimization --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/median_minimization.java">Solution</li>
+    <li><a href="https://www.codechef.com/COOK136C/problems/MEDMIN">Median Minimization --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/median_minimization.java">Solution</a>/li>
   </ol>
-  
+<b>DAY-3 ARRAY</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| form-a-number-divisible-by-3-using-array-digits | <a href="https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/divsible_by_three.java"> Link  |
+ | k largest elements  | <a href="https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/k_largest_elements.java"> Link  |
+ | Number of occurrence  | <a href="https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/number_of_occurrence.java"> Link  |
+ | Fighting the darkness  | <a href="https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/fighting_the_darkness.java"> Link  |
+ | Nuts and Bolts Problem  | <a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/nuts_and_bolts.java"> Link  |
+ | Balanced Array  | <a href="https://practice.geeksforgeeks.org/problems/balanced-array07200720/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/balanced_array.java"> Link  |
+ | Sort an array of 0s, 1s and 2s  | <a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sort_0_1_2.java"> Link  |
+ | Kadane's Algorithm  | <a href="https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/kadens_algorithm.java"> Link  |
+ | Maximum in Struct Array  | <a href="https://practice.geeksforgeeks.org/problems/maximum-in-struct-array/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/maximum_in_struct_array.java"> Link  |
