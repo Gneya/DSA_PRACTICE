@@ -28,7 +28,7 @@
   <ol>
     <li><a href="https://www.codechef.com/COOK136C/problems/TWOROOKS">Two Rooks --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/two_rooks.java">Solution</li>
     <li><a href="https://www.codechef.com/COOK136C/problems/FRIMEET">Friends Meetup --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/friends_meetup.java">Solution</li>
-    <li><a href="https://www.codechef.com/COOK136C/problems/MEDMIN">Median Minimization --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/median_minimization.java">Solution</a>/li>
+    <li><a href="https://www.codechef.com/COOK136C/problems/MEDMIN">Median Minimization --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/median_minimization.java">Solution</a></li>
   </ol>
 <b>DAY-3 ARRAY</b>
       
