@@ -43,3 +43,12 @@
  | Sort an array of 0s, 1s and 2s  | <a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sort_0_1_2.java"> Link  |
  | Kadane's Algorithm  | <a href="https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/kadens_algorithm.java"> Link  |
  | Maximum in Struct Array  | <a href="https://practice.geeksforgeeks.org/problems/maximum-in-struct-array/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/maximum_in_struct_array.java"> Link  |
+
+<b>DAY-4 Solved Medium level questions of array</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Merge K sorted array | <a href="https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/merged_k_sorted.java"> Link  |
+| Kth Smallest element | <a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/kth_smallest_element.java"> Link  |
+| Minimum Platforms | <a href="https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/minimum_platform.java"> Link  |
+| Majority elements | <a href="https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/majority_element.java"> Link  |
