@@ -52,3 +52,18 @@
 | Kth Smallest element | <a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/kth_smallest_element.java"> Link  |
 | Minimum Platforms | <a href="https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/minimum_platform.java"> Link  |
 | Majority elements | <a href="https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/majority_element.java"> Link  |
+
+<b>DAY-5 ARRAY</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Smallest Positive missing number | <a href="https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/missing_number.java"> Link  |
+| Row with max 1s | <a href="https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/row_with_max_one.java"> Link  |
+
+<b>Codechef Infinity 2k21</b>
+ <ol>
+   <li> <a href="https://www.codechef.com/INFI21C/problems/SQUIDRULE">The Squid Game --></a><a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/squid_game.java">Solution</a></li>
+  <li> <a href="https://www.codechef.com/INFI21C/problems/DOLL">Red Light, Green Light --></a><a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/red_green_light.java">Solution</a></li>
+   <li> <a href="https://www.codechef.com/INFI21C/problems/MARBLE">Marbles --></a><a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/marbles.java">Solution</a></li>
+      </ol>
+   
