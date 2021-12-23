@@ -67,3 +67,12 @@
    <li> <a href="https://www.codechef.com/INFI21C/problems/MARBLE">Marbles --></a><a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/marbles.java">Solution</a></li>
       </ol>
    
+<b>DAY-6 Medium Level questions of ARRAY</b>
+      
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Sum of two elements with sum nearest to zero  | <a href="https://practice.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero1737/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/nearest_zero.java"> Link  |
+| Move all zeroes to end of array  | <a href="https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/move_all_zeros.java"> Link  |
+| Equal sum | <a href="https://practice.geeksforgeeks.org/problems/equal-sum0810/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/equal_sum.java"> Link  |
+| Boolean Matrix | <a href="https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/boolean_matrix.java"> Link  |
+| Sum of Middle Elements of two sorted arrays  | <a href="https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays2305/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_mid.java"> Link  |
