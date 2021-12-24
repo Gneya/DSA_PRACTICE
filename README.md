@@ -76,3 +76,14 @@
 | Equal sum | <a href="https://practice.geeksforgeeks.org/problems/equal-sum0810/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/equal_sum.java"> Link  |
 | Boolean Matrix | <a href="https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/boolean_matrix.java"> Link  |
 | Sum of Middle Elements of two sorted arrays  | <a href="https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays2305/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/sum_of_mid.java"> Link  |
+
+<b>DAY-7 ARRAY ans SEARCHING</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Find the frequency | <a href="https://practice.geeksforgeeks.org/problems/find-the-frequency/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/find_frequency.java"> Link  |
+| Maximum Product Subarray | <a href="https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/maximum_product.java"> Link  |
+| The Painter's Partition Problem-II  | <a href="https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/painters_partition.java"> Link  |
+| Remove duplicate elements from sorted Array  | <a href="https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/remove_duplicate.java"> Link  |
+| Search in a row-column sorted Matrix  | <a href="https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/search_in_matrix.java"> Link  |
+| Square root of a number  | <a href="https://practice.geeksforgeeks.org/problems/square-root/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/square_root.java"> Link  |
