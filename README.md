@@ -87,3 +87,12 @@
 | Remove duplicate elements from sorted Array  | <a href="https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/remove_duplicate.java"> Link  |
 | Search in a row-column sorted Matrix  | <a href="https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/search_in_matrix.java"> Link  |
 | Square root of a number  | <a href="https://practice.geeksforgeeks.org/problems/square-root/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/square_root.java"> Link  |
+
+<b>DAY-8  BINARY SEARCH</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Find Pivot Index | <a href="https://leetcode.com/problems/find-pivot-index/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/pivot_index..java"> Link  |
+| First and last occurrences of x  | <a href="https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/first_and_last_occurence.java"> Link  |
+| Peak Index in a Mountain Array | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/peak_in_mountain.java"> Link  |
+| Search in a Rotated Array  | <a href="https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1#"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/search_in_rotated.java"> Link  |
