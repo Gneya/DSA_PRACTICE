@@ -96,3 +96,10 @@
 | First and last occurrences of x  | <a href="https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/first_and_last_occurence.java"> Link  |
 | Peak Index in a Mountain Array | <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/peak_in_mountain.java"> Link  |
 | Search in a Rotated Array  | <a href="https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1#"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/search_in_rotated.java"> Link  |
+
+<b>DAY-9 Binary search</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Aggressive cow  | <a href="https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/aggressive_cow.java"> Link  |
+| Book Allocation | <a href="https://www.codingninjas.com/codestudio/problems/allocate-books_1090540?leftPanelTab=0"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/book_allocation.java"> Link  |
