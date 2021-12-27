@@ -103,3 +103,9 @@
 | :---:   | :-: | :-: |
 | Aggressive cow  | <a href="https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/aggressive_cow.java"> Link  |
 | Book Allocation | <a href="https://www.codingninjas.com/codestudio/problems/allocate-books_1090540?leftPanelTab=0"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/book_allocation.java"> Link  |
+
+<b>DAY-10 Binary Search</b>
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Binary Search in forest | <a href="https://practice.geeksforgeeks.org/problems/ffd66b6a0bf7cefb9987fa455974b6ea5695709e/1/"> Link</a> | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/search_in_forest.java"> Link|
+      
