@@ -109,3 +109,11 @@
 | :---:   | :-: | :-: |
 | Binary Search in forest | <a href="https://practice.geeksforgeeks.org/problems/ffd66b6a0bf7cefb9987fa455974b6ea5695709e/1/"> Link</a> | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Binary%20Search/search_in_forest.java"> Link|
       
+<b>DAY-11 Sorting and Array</b>
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Reverse The Array | <a href="https://www.codingninjas.com/codestudio/problems/reverse-the-array_1262298"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/reverse_array.java"> Link  |
+| Merge Without Extra Space  | <a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1#"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Array/merge_without_space.java"> Link  |
+| Bubble Sort | <a href="https://practice.geeksforgeeks.org/problems/bubble-sort/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/sorting/bubble_sort.java"> Link  |
+| Selection sort | <a href="https://practice.geeksforgeeks.org/problems/selection-sort/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/sorting/selection_sort.java"> Link  |
+| Merge Sort | <a href="https://practice.geeksforgeeks.org/problems/merge-sort/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/sorting/merge_sort.java"> Link  |
