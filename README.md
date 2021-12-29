@@ -117,3 +117,12 @@
 | Bubble Sort | <a href="https://practice.geeksforgeeks.org/problems/bubble-sort/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/sorting/bubble_sort.java"> Link  |
 | Selection sort | <a href="https://practice.geeksforgeeks.org/problems/selection-sort/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/sorting/selection_sort.java"> Link  |
 | Merge Sort | <a href="https://practice.geeksforgeeks.org/problems/merge-sort/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/sorting/merge_sort.java"> Link  |
+
+<b>DAY-12 Bit Manipulation</b>
+      
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Number of 1 Bits  | <a href="https://practice.geeksforgeeks.org/problems/set-bits0143/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Bit%20Manipulation/number_of_ones.java"> Link  |
+| Swap all odd and even bits  | <a href="https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Bit%20Manipulation/swap_odd_even.java"> Link  |
+| Sum of two numbers without using arithmetic operators  | <a href="https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Bit%20Manipulation/sum_of_two.java"> Link  |
+| Lucky alive person in a circle  | <a href="https://practice.geeksforgeeks.org/problems/lucky-alive-person-in-a-circle1229/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Bit%20Manipulation/lucky_alive.java"> Link  |
