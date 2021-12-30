@@ -126,3 +126,12 @@
 | Swap all odd and even bits  | <a href="https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Bit%20Manipulation/swap_odd_even.java"> Link  |
 | Sum of two numbers without using arithmetic operators  | <a href="https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Bit%20Manipulation/sum_of_two.java"> Link  |
 | Lucky alive person in a circle  | <a href="https://practice.geeksforgeeks.org/problems/lucky-alive-person-in-a-circle1229/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Bit%20Manipulation/lucky_alive.java"> Link  |
+
+<b>DAY-13 String</b>
+      
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Reverse words in a given string  | <a href="https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/reverse_words.java"> Link  |
+| Palindrome String  | <a href="https://practice.geeksforgeeks.org/problems/palindrome-string0817/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/palindrome.java"> Link  |
+| Maximum Occuring Character  | <a href="https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/maximum_occurence.java"> Link  |
+| Print Anagrams Together  | <a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/anagrams.java"> Link  |
