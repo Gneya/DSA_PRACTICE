@@ -135,3 +135,11 @@
 | Palindrome String  | <a href="https://practice.geeksforgeeks.org/problems/palindrome-string0817/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/palindrome.java"> Link  |
 | Maximum Occuring Character  | <a href="https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/maximum_occurence.java"> Link  |
 | Print Anagrams Together  | <a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/anagrams.java"> Link  |
+
+<b>DAY-14 Strings</b>
+      
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Anagram | <a href="https://practice.geeksforgeeks.org/problems/anagram-1587115620/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/anagram.java"> Link  |
+| Twice Counter | <a href="https://practice.geeksforgeeks.org/problems/twice-counter4236/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/twice_counter.java"> Link  |
+| Pangram Checking  | <a href="https://practice.geeksforgeeks.org/problems/pangram-checking-1587115620/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/String/pangram.java"> Link  |
