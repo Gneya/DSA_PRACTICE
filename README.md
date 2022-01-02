@@ -146,3 +146,7 @@
 
 <b>DAY-15</b>
       Learnt about recursion
+ | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Factorial | <a href="https://practice.geeksforgeeks.org/problems/factorial5739/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/factorial.java"> Link  |
+| Print 1 to N | <a href="https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/print_1_to_n.java"> Link  |
