@@ -150,3 +150,10 @@
 | :---:   | :-: | :-: |
 | Factorial | <a href="https://practice.geeksforgeeks.org/problems/factorial5739/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/factorial.java"> Link  |
 | Print 1 to N | <a href="https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/print_1_to_n.java"> Link  |
+
+<b>DAY-16 Recursion</b>
+      
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Fibonacci series | <a href="https://leetcode.com/problems/fibonacci-number/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/fibo.java"> Link  |
+| Reach the Nth point | <a href="https://practice.geeksforgeeks.org/problems/reach-the-nth-point5433/1/#"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/nth_point.java"> Link  |
