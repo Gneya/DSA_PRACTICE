@@ -157,3 +157,10 @@
 | :---:   | :-: | :-: |
 | Fibonacci series | <a href="https://leetcode.com/problems/fibonacci-number/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/fibo.java"> Link  |
 | Reach the Nth point | <a href="https://practice.geeksforgeeks.org/problems/reach-the-nth-point5433/1/#"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/nth_point.java"> Link  |
+ 
+b>DAY-17 Recursiom</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Check if array is sorted | <a href="https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/if_sorted.cpp"> Link  |
+| Binary Search using recursion | <a href=""> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/b_search.java"> Link  |
