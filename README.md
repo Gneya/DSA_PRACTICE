@@ -164,3 +164,10 @@ b>DAY-17 Recursiom</b>
 | :---:   | :-: | :-: |
 | Check if array is sorted | <a href="https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/if_sorted.cpp"> Link  |
 | Binary Search using recursion | <a href=""> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/b_search.java"> Link  |
+
+<b>DAY-18 Recursion</b>
+      
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Find Power of number | <a href=""> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/power.java"> Link  |
+| String palindrome | <a href=""> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/check_palindrome.java"> Link  |
