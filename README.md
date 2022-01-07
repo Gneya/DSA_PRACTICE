@@ -171,3 +171,11 @@ b>DAY-17 Recursiom</b>
 | :---:   | :-: | :-: |
 | Find Power of number | <a href=""> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/power.java"> Link  |
 | String palindrome | <a href=""> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/check_palindrome.java"> Link  |
+
+<b> Codechef January Long 2022</b>
+      
+      
+ <a href="https://www.codechef.com/JAN221C/submit/KEPLERSLAW"> Keplers Law </a>  --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/Keplers_Law.java" >Solution</a>   
+<a href="https://www.codechef.com/JAN221C/submit/COVSPRD"> Covid Spread </a> --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/covid_spread.java">
+      Solution </a>
+      
