@@ -178,4 +178,7 @@ b>DAY-17 Recursiom</b>
  <a href="https://www.codechef.com/JAN221C/submit/KEPLERSLAW"> Keplers Law </a>  --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/Keplers_Law.java" >Solution</a>   
 <a href="https://www.codechef.com/JAN221C/submit/COVSPRD"> Covid Spread </a> --> <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/codechef/covid_spread.java">
       Solution </a>
-      
+
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Subset | <a href="https://leetcode.com/problems/subsets/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/subset.java"> Link  |      
