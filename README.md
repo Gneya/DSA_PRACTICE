@@ -182,3 +182,10 @@ b>DAY-17 Recursiom</b>
 | Problem Statement | Question  | Solution  |
 | :---:   | :-: | :-: |
 | Subset | <a href="https://leetcode.com/problems/subsets/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/subset.java"> Link  |      
+
+<b> DAY-19 Recursion </b>
+
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Substring | <a href="https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_16"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/substring.java"> Link  |      
+      
