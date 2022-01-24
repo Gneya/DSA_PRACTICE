@@ -189,3 +189,9 @@ b>DAY-17 Recursiom</b>
 | :---:   | :-: | :-: |
 | Substring | <a href="https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_16"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/substring.java"> Link  |      
       
+<b> DAY-20 Recursion </b>
+
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Letter Combination | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/letter_combination.java"> Link  |     
+| Permutations | <a href="https://leetcode.com/problems/permutations/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/permutations.java"> Link  |     
