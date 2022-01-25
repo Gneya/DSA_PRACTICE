@@ -195,3 +195,9 @@ b>DAY-17 Recursiom</b>
 | :---:   | :-: | :-: |
 | Letter Combination | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/letter_combination.java"> Link  |     
 | Permutations | <a href="https://leetcode.com/problems/permutations/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/permutations.java"> Link  |     
+      
+<b> DAY-21 Recursion </b>
+
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |   
+| Rat in a Maze Problem - I | <a href="https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/rat_maze.java"> Link  |     
