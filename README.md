@@ -201,3 +201,11 @@ b>DAY-17 Recursiom</b>
 | Problem Statement | Question  | Solution  |
 | :---:   | :-: | :-: |   
 | Rat in a Maze Problem - I | <a href="https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Recursion/rat_maze.java"> Link  |     
+
+<b> DAY-22 Linked List </b>
+
+| Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |   
+| Middle of the Linked List | <a href="https://leetcode.com/problems/middle-of-the-linked-list/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Linked%20List/middle_of_list.java"> Link  |     
+| Reverse a Linked List | <a href="https://leetcode.com/problems/reverse-linked-list/"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Linked%20List/reverse.java"> Link  |    
+| Reverse a Linked List in K groups | <a href="https://www.codingninjas.com/codestudio/problems/reverse-list-in-k-groups_983644?leftPanelTab=1"> Link | <a href="https://github.com/Gneya/DSA_PRACTICE/blob/main/Linked%20List/rev_in_k_group.java"> Link  |    
